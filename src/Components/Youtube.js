@@ -68,7 +68,7 @@ export default function Youtube(){
     <>
     <div className="container">
       <div className="playerButton">
-        <h1>MUSIC PLAYER</h1>
+        <h1>VIDEO PLAYER</h1>
         <p>Put the Youtube URL of your favorite music !</p>
         <div className="inputButton">
         <input className="input" type="text" onChange={handleUrl} />
